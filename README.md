@@ -1,7 +1,7 @@
 # SurveyCSS (Continuously updating)
 ## A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
-![method_classification](illustration/category.png)
+![method_classification](illustration/method_category.png)
 ![roadmap](illustration/roadmap.png)
 ## Data-replay Approaches
 ### 2023
