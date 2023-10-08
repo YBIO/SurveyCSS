@@ -1,5 +1,5 @@
 # SurveyCSS (Continuously updating)
-A survey on Continual Semantic Segmentation
+## A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
 ![method_classification](illustration/category.png)
 ![roadmap](illustration/roadmap.png)
