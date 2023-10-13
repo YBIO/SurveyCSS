@@ -1,8 +1,7 @@
 # SurveyCSS (Continuously updating)
 ## A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
-![method_classification](illustration/method_category.png)
-![roadmap](illustration/roadmap.png)
+![task_legend](illustration/task_legend.png)
 ## Data-replay Approaches
 ### 2023
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [[paper]](https://arxiv.org/pdf/2308.01127.pdf) 
