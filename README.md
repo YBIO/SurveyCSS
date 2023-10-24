@@ -1,5 +1,4 @@
 # SurveyCSS (Continuously updating)
-## A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
 ![task_legend](illustration/task_legend.png)
 ## Data-replay Approaches
