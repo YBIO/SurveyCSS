@@ -3,10 +3,10 @@
 ![task_legend](illustration/task_legend.png)
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
-- DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [[paper]](https://arxiv.org/pdf/2308.01127.pdf) 
+- DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127.pdf) 
 - FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) 
 - AMSS: [Continual Semantic Segmentation With Automatic Memory Sample Selection] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.html)
-- RECALL+: [Adversarial Web-based Replay for Continual Learning in Semantic Segmentation] [[paper]](https://browse.arxiv.org/pdf/2309.10479.pdf)
+- RECALL+: [Adversarial Web-based Replay for Continual Learning in Semantic Segmentation] [ArXiv 2023] [[paper]](https://browse.arxiv.org/pdf/2309.10479.pdf)
 - EndoCSS: [Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay] [CBM 2023] [[paper]](https://browse.arxiv.org/pdf/2308.14100.pdf)
 - Domain-Incremental Cardiac Image Segmentation With Style-Oriented Replay and Domain-Sensitive Feature Whitening [TMI 2023] [[paper]](https://ieeexplore.ieee.org/document/9908146)
 - GarDA: [Generative appearance replay for continual unsupervised domain adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2301.01211)
@@ -42,7 +42,6 @@
 - CoMFormer: [CoMFormer: Continual Learning in Semantic and Panoptic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2211.13999)
 
 ### 2022
-- BAFFT: [Birds of a Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation] [TIP 2022] [[paper]](https://browse.arxiv.org/pdf/2204.02111.pdf) [[code]](https://github.com/YBIO/BAFFT)
 - WILSON: [Incremental Learning in Semantic Segmentation From Image Labels] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html) [[code]](https://github.com/fcdl94/WILSON)
 - RBC: [RBC: Rectifying the Biased Context in Continual Semantic Segmentation] [ECCV 2022] [[paper]](https://browse.arxiv.org/pdf/2203.08404.pdf) [[code]](https://github.com/dcdcvgroup/RBC)
 - CBNA: [Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation] [TITS 2022] [[paper]](https://ieeexplore.ieee.org/abstract/document/9843858) [[code]](https://github.com/ifnspaml/CBNA)
