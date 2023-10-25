@@ -29,8 +29,8 @@
 ## <div align='center'> Data-free Approaches </div>
 
 ### 2023
-- IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory.] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962)
 - GSC: [Gradient-Semantic Compensation for Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2307.10822)
+- IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962)
 - MiCro: [MiCro: Modeling Cross-Image Semantic Relationship Dependencies for Class-Incremental Semantic Segmentation in Remote Sensing Images.] [TGRS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10188852)
 - CL-PCSS: [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CLVision/html/Camuffo_Continual_Learning_for_LiDAR_Semantic_Segmentation_Class-Incremental_and_Coarse-To-Fine_Strategies_CVPRW_2023_paper.html)
 - AWT: [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation] [WACV 2023] [[paper]](https://openaccess.thecvf.com/content/WACV2023/htmlGoswami_Attribution-Aware_Weight_Transfer_A_Warm-Start_Initialization_for_Class-Incremental_Semantic_Segmentation_WACV_2023_paper.html)
@@ -83,6 +83,7 @@ Here are some qualitative visualizations of recent CSS methods.
 
 ### Interpretability Analysis
 
-
-
+## TODO
+* [ ]  Method characteristics summary
+* [ ]  Roadmap update
 
