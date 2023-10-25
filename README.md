@@ -74,11 +74,15 @@
 - EHNet: [Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation] [ACM MM 2022] [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548218)
 - PIFS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415)
 
-## Visualization
+## <div align='center'> Reproductions </div>
+### Performance 
+The evaluation of anti-forgetting ability and robustness of CSS methods.
+![Performance](illustration/performance.png)
+### Visualization
 Here are some qualitative visualizations of recent CSS methods.
 ![task_legend](illustration/visualization.png)
 
-## Interpretability Analysis
+### Interpretability Analysis
 
 
 
