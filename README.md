@@ -1,5 +1,4 @@
 # SurveyCSS (Continuously updating)
-
 ![task_legend](illustration/task_legend.png)
 ## Data-replay Approaches
 ### 2023
@@ -63,4 +62,11 @@
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html)
 
 ## Visualization
+Here are some qualitative visualizations of recent CSS methods.
+![task_legend](illustration/visualization.png)
+
+## Interpretability Analysis
+
+
+
 
