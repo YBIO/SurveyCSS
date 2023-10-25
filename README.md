@@ -1,6 +1,7 @@
-# SurveyCSS (Continuously updating)
+# <div align='center'> SurveyCSS (Continuously updating) </div>
+
 ![task_legend](illustration/task_legend.png)
-## Data-replay Approaches
+## <div align='center'> Data-replay Approaches </div>
 ### 2023
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [[paper]](https://arxiv.org/pdf/2308.01127.pdf) 
 - FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) 
@@ -25,7 +26,7 @@
 - FSS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415) [[code]](https://github.com/fcdl94/FSS)
 
 
-## Data-free Approaches
+## <div align='center'> Data-free Approaches </div>
 
 ### 2023
 - GSC: [Gradient-Semantic Compensation for Incremental Semantic Segmentation] [[paper]](https://browse.arxiv.org/pdf/2307.10822.pdf)
@@ -66,7 +67,7 @@
 ### 2019
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html)
 
-## Few-shot CSS
+## <div align='center'> Few-shot CSS </div>
 - SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [ArXiv2023] [[paper]](https://arxiv.org/abs/2305.10868)
 - FSCILSS: [Few-Shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation] [ISPDS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10235731)
 - GAPS: [GAPS: Few-Shot Incremental Semantic Segmentation via Guided Copy-Paste Synthesis] [CVPRW 2023] [[paper]](https://motion.cs.illinois.edu/papers/CVPRWorkshop2023-Qiu-FewShotSegmentation.pdf)
