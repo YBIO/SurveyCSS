@@ -1,3 +1,4 @@
+<img src="illustration/AIRVIC.png" width="100px">
 # <div align='center'> SurveyCSS (Continuously updating) </div>
 
 ![task_legend](illustration/task_legend.png)
@@ -82,7 +83,18 @@ Here are some qualitative visualizations of recent CSS methods.
 ![task_legend](illustration/visualization.png)
 
 ### Interpretability Analysis
+Feature-based visualization is an explicit way to visualize the semantic clusters during CL steps. For example, TSNE and CAM-series are potential manners to assist the result analysis.
 
+### Cite this repo
+If this project is mentioned in other areas, please cite as
+```
+@inproceedings{Yuan2023survey,
+  title={A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application},
+  author={Bo Yuan and Danpei Zhao},
+  year={2023},
+  eprint={2310.14277},
+}
+```
 ## TODO
 * [ ]  Method characteristics summary
 * [ ]  Roadmap update
