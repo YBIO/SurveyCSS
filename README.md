@@ -1,4 +1,4 @@
-<img src="illustration/AIRVIC.png" width="200px">
+<img src="illustration/AIRVICLAB.png" width="200px">
 
 # <div align='center'> SurveyCSS (Continuously updating) </div>
 
