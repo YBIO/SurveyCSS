@@ -87,17 +87,18 @@ Here are some qualitative visualizations of recent CSS methods.
 Feature-based visualization is an explicit way to visualize the semantic clusters during CL steps. For example, TSNE and CAM-series are potential manners to assist the result analysis.
 
 ### Cite this repo
-If this project is mentioned in other areas, please cite as
+If this project is mentioned in other areas, please cite it as
 ```
-@article{Yuan2023survey,
+@article{yuan2023survey,
   title={A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application},
-  author={Bo Yuan and Danpei Zhao},
-  journal={ArXiv},
-  year={2023},
-  doi={10.48550/arXiv.2310.14277}
+  author={Yuan, Bo and Zhao, Danpei},
+  journal={arXiv preprint arXiv:2310.14277},
+  year={2023}
 }
 ```
+
 ## TODO
 * [ ]  Method characteristics summary
+* [ ]  Performance comparison
 * [ ]  Roadmap update
 
