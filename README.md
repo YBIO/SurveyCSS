@@ -89,11 +89,12 @@ Feature-based visualization is an explicit way to visualize the semantic cluster
 ### Cite this repo
 If this project is mentioned in other areas, please cite as
 ```
-@inproceedings{Yuan2023survey,
+@article{Yuan2023survey,
   title={A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application},
   author={Bo Yuan and Danpei Zhao},
+  journal={ArXiv},
   year={2023},
-  eprint={2310.14277},
+  doi={10.48550/arXiv.2310.14277}
 }
 ```
 ## TODO
