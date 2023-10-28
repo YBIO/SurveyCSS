@@ -5,6 +5,7 @@
 ![task_legend](illustration/task_legend.png)
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
+- FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]] [https://arxiv.org/abs/2305.15700]
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127.pdf) 
 - FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) 
 - AMSS: [Continual Semantic Segmentation With Automatic Memory Sample Selection] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.html)
@@ -31,8 +32,14 @@
 ## <div align='center'> Data-free Approaches </div>
 
 ### 2023
-- GSC: [Gradient-Semantic Compensation for Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2307.10822)
+- SDCL: [Subspace Distillation for Continual Learning] [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608023004057) [code](https://github.com/csiro-robotics/SDCL)
+- Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision. [ICCV 2023] [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.html) [[code]](1https://github.com/AI-Application-and-Integration-Lab/CL4WSIS)
+- Effects of architectures on continual semantic segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/abs/2302.10718)
+- SegViT v2: [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers] [ArXiv 2023] [[paper]] (https://arxiv.org/abs/2306.06289)
+- LGKD: [Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds] [ICCV 2023] [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.html)
+- Preparing the Future for Continual Semantic Segmentation. [ICCV 2023] [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Preparing_the_Future_for_Continual_Semantic_Segmentation_ICCV_2023_paper.html)
 - IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962)
+- GSC: [Gradient-Semantic Compensation for Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2307.10822)
 - MiCro: [MiCro: Modeling Cross-Image Semantic Relationship Dependencies for Class-Incremental Semantic Segmentation in Remote Sensing Images.] [TGRS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10188852)
 - CL-PCSS: [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CLVision/html/Camuffo_Continual_Learning_for_LiDAR_Semantic_Segmentation_Class-Incremental_and_Coarse-To-Fine_Strategies_CVPRW_2023_paper.html)
 - AWT: [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation] [WACV 2023] [[paper]](https://openaccess.thecvf.com/content/WACV2023/htmlGoswami_Attribution-Aware_Weight_Transfer_A_Warm-Start_Initialization_for_Class-Incremental_Semantic_Segmentation_WACV_2023_paper.html)
@@ -42,6 +49,8 @@
 -S3R: [S3R: Shape and Semantics-Based Selective Regularization for Explainable Continual Segmentation Across Multiple Sites] [TMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10078916)
 - ContinualPMF:[Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2308.04702)
 - CoMFormer: [CoMFormer: Continual Learning in Semantic and Panoptic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2211.13999)
+- DILRS: [DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data] [[paper]](https://www.mdpi.com/2072-4292/15/10/2541)
+- RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation] [[paper]](https://arxiv.org/abs/2305.19879)
 
 ### 2022
 - WILSON: [Incremental Learning in Semantic Segmentation From Image Labels] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html) [[code]](https://github.com/fcdl94/WILSON)
@@ -69,11 +78,18 @@
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html)
 
 ## <div align='center'> Few-shot CSS </div>
-- SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [ArXiv2023] [[paper]](https://arxiv.org/abs/2305.10868)
+- SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.10868)
 - FSCILSS: [Few-Shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation] [ISPDS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10235731)
 - GAPS: [GAPS: Few-Shot Incremental Semantic Segmentation via Guided Copy-Paste Synthesis] [CVPRW 2023] [[paper]](https://motion.cs.illinois.edu/papers/CVPRWorkshop2023-Qiu-FewShotSegmentation.pdf)
 - EHNet: [Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation] [ACM MM 2022] [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548218)
 - PIFS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415)
+
+## <div align='center'> Specific Applications </div>
+- Federated Incremental Semantic Segmentation. [CVPR 2023] [[paper]](https://arxiv.org/abs/2304.04620) [code](https://github.com/JiahuaDong/FISS)
+- Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions [CVPR 2023] [[paper]](https://arxiv.org/abs/2303.14115)
+- Continual segment: Towards a single, unified and accessible continual segmentation model of 143 whole-body organs in ct scans. [ICCV 2023] [[paper]](https://arxiv.org/abs/2302.00162)
+- Continual Nuclei Segmentation via Prototype-wise Relation Distillation and Contrastive Learning. [TMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10227350)
+- Continual learning for abdominal multi-organ and tumor segmentation. [MICCAI 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_4)
 
 ## <div align='center'> Reproductions </div>
 ### Performance 
