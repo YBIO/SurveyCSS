@@ -3,7 +3,7 @@
 # <div align='center'> SurveyCSS (Continuously updating) </div>
 
 ![task_legend](illustration/task_legend.png)
-https://img.shields.io/badge/knowledge_distillation
+
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
@@ -43,7 +43,7 @@ https://img.shields.io/badge/knowledge_distillation
 - Preparing the Future for Continual Semantic Segmentation. [ICCV 2023] [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Preparing_the_Future_for_Continual_Semantic_Segmentation_ICCV_2023_paper.html)
 - GSC: [Gradient-Semantic Compensation for Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2307.10822)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - MiCro: [MiCro: Modeling Cross-Image Semantic Relationship Dependencies for Class-Incremental Semantic Segmentation in Remote Sensing Images.] [TGRS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10188852)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- CL-PCSS: [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data] [CVPR 2023] [[paper]] (https://openaccess.thecvf.com/content/CVPR2023W/CLVision/html/Camuffo_Continual_Learning_for_LiDAR_Semantic_Segmentation_Class-Incremental_and_Coarse-To-Fine_Strategies_CVPRW_2023_paper.html)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- CL-PCSS: [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CLVision/html/Camuffo_Continual_Learning_for_LiDAR_Semantic_Segmentation_Class-Incremental_and_Coarse-To-Fine_Strategies_CVPRW_2023_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - AWT: [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation] [WACV 2023] [[paper]](https://openaccess.thecvf.com/content/WACV2023/htmlGoswami_Attribution-Aware_Weight_Transfer_A_Warm-Start_Initialization_for_Class-Incremental_Semantic_Segmentation_WACV_2023_paper.html)
 - EWF: [Endpoints Weight Fusion for Class Incremental Semantic Segmentation] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf) [[code]](https://github.com/schuy1er/EWF_official)
 - SATS: [SATS: Self-attention transfer for continual semantic segmentation] [PR 2023] [[paper]](https://browse.arxiv.org/pdf/2203.07667.pdf) [[code]](https://github.com/QIU023/SATS_Continual_Semantic_Seg)  ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -64,7 +64,7 @@ https://img.shields.io/badge/knowledge_distillation
 - RCIL: [Representation Compensation Networks for Continual Semantic Segmentation] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Representation_Compensation_Networks_for_Continual_Semantic_Segmentation_CVPR_2022_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CAF：[Continual attentive fusion for incremental learning in semantic segmentation] [TMM 2022] [[paper]](https://ieeexplore.ieee.org/abstract/document/9757872) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - UCD: [Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation] [TPAMI 2022] [[paper]](https://ieeexplore.ieee.org/abstract/document/9745778) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- REMINDER: [Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation] [CVPR 2022] [[paper]] (https://openaccess.thecvf.com/content/CVPR2022/html/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- REMINDER: [Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - DFD-LM: [Class-Incremental Learning for Semantic Segmentation in Aerial Imagery via Distillation in All Aspects] [TGRS 2022] [[paper]](https://ieeexplore.ieee.org/abstract/document/9648310) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 
