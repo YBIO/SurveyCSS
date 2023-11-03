@@ -4,6 +4,8 @@
 
 ![task_legend](illustration/task_legend.png)
 
+## Paper
+[A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
