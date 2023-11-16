@@ -9,6 +9,7 @@
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
+- Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -57,6 +58,7 @@
 - RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation] [[paper]](https://arxiv.org/abs/2305.19879) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2022
+- iFS-RCNN: An Incremental Few-shot Instance Segmenter [CVPR 2022] [[paper]](https://arxiv.org/pdf/2205.15562.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - WILSON: [Incremental Learning in Semantic Segmentation From Image Labels] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html) [[code]](https://github.com/fcdl94/WILSON) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - RBC: [RBC: Rectifying the Biased Context in Continual Semantic Segmentation] [ECCV 2022] [[paper]](https://browse.arxiv.org/pdf/2203.08404.pdf) [[code]](https://github.com/dcdcvgroup/RBC) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CBNA: [Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation] [TITS 2022] [[paper]](https://ieeexplore.ieee.org/abstract/document/9843858) [[code]](https://github.com/ifnspaml/CBNA)  ![](https://img.shields.io/badge/domain%20incre.-blue)
