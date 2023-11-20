@@ -9,7 +9,6 @@
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2023
-- CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [ICCV 2023] [[paper]](https://arxiv.org/pdf/2310.06368v1.pdf) [[code]](https://github.com/zkzhang98/CoinSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -40,6 +39,7 @@
 ### 2023
 - SDCL: [Subspace Distillation for Continual Learning] [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608023004057) [[code]](https://github.com/csiro-robotics/SDCL) ![](https://img.shields.io/badge/task%20incre.-gray) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [ICCV 2023] [[paper]](https://arxiv.org/pdf/2310.06368v1.pdf) [[code]](https://github.com/zkzhang98/CoinSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision. [ICCV 2023] [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.html) [[code]](https://github.com/AI-Application-and-Integration-Lab/CL4WSIS)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Effects of architectures on continual semantic segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/abs/2302.10718)
 - SegViT v2: [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2306.06289) ![](https://img.shields.io/badge/class%20incre.-yellow)
