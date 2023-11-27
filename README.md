@@ -55,8 +55,9 @@
 - S3R: [S3R: Shape and Semantics-Based Selective Regularization for Explainable Continual Segmentation Across Multiple Sites] [TMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10078916) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - ContinualPMF:[Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2308.04702) ![](https://img.shields.io/badge/modality%20incre.-red)
 - CoMFormer: [CoMFormer: Continual Learning in Semantic and Panoptic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2211.13999)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- DILRS: [DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data] [[paper]](https://www.mdpi.com/2072-4292/15/10/2541) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation] [[paper]](https://arxiv.org/abs/2305.19879) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- DILRS: [DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data] [Remote Sensing 2023] [[paper]](https://www.mdpi.com/2072-4292/15/10/2541) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation]  [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.19879) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Efficient Multi-Grained Knowledge Reuse for Class Incremental Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2306.02027.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2022
 - iFS-RCNN: An Incremental Few-shot Instance Segmenter [CVPR 2022] [[paper]](https://arxiv.org/pdf/2205.15562.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
