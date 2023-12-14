@@ -37,6 +37,7 @@
 ## <div align='center'> Data-free Approaches </div>
 
 ### 2023
+- FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2311.15965.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - SDCL: [Subspace Distillation for Continual Learning] [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608023004057) [[code]](https://github.com/csiro-robotics/SDCL) ![](https://img.shields.io/badge/task%20incre.-gray) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [ICCV 2023] [[paper]](https://arxiv.org/pdf/2310.06368v1.pdf) [[code]](https://github.com/zkzhang98/CoinSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
