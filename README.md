@@ -8,6 +8,8 @@
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
 
 ## <div align='center'> Data-replay Approaches </div>
+### 2024
+- Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
 ### 2023
 - Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -35,9 +37,12 @@
 
 
 ## <div align='center'> Data-free Approaches </div>
-
+### 2024
+- CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Towards Domain-Aware Knowledge Distillation for Continual Model Generalization. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
 ### 2023
 - FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2311.15965.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- L2MNet: Enhancing Continual Semantic Segmentation with Mask Matching [PRCV 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_11)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - SDCL: [Subspace Distillation for Continual Learning] [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608023004057) [[code]](https://github.com/csiro-robotics/SDCL) ![](https://img.shields.io/badge/task%20incre.-gray) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - IDEC: [Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory] [TPAMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10120962) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [ICCV 2023] [[paper]](https://arxiv.org/pdf/2310.06368v1.pdf) [[code]](https://github.com/zkzhang98/CoinSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
