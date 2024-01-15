@@ -7,35 +7,6 @@
 ## Our Paper
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
 
-## <div align='center'> Data-replay Approaches </div>
-### 2024
-- Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
-### 2023
-- Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- AMSS: [Continual Semantic Segmentation With Automatic Memory Sample Selection] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- RECALL+: [Adversarial Web-based Replay for Continual Learning in Semantic Segmentation] [ArXiv 2023] [[paper]](https://browse.arxiv.org/pdf/2309.10479) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- EndoCSS: [Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay] [CBM 2023] [[paper]](https://browse.arxiv.org/pdf/2308.14100) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- Domain-Incremental Cardiac Image Segmentation With Style-Oriented Replay and Domain-Sensitive Feature Whitening [TMI 2023] [[paper]](https://ieeexplore.ieee.org/document/9908146) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- GarDA: [Generative appearance replay for continual unsupervised domain adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2301.01211) ![](https://img.shields.io/badge/domain%20incre.-blue)
-
-### 2022
-- ProCA: [Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation] [ECCV 2022] [[paper]](https://browse.arxiv.org/pdf/2207.10856.pdf) [[code]](https://github.com/Hongbin98/ProCA)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- SPPA: [Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment] [ECCV 2022] [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890341.pdf) [[code]](https://github.com/AsteRiRi/SPPA)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- ALIFE: [Alife: Adaptive logit regularizer and feature replay for incremental semantic segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d516fc09b53e9a7fade4fbad703e686-Abstract-Conference.html) [[code]](https://github.com/cvlab-yonsei/ALIFE)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- DKD: [Decomposed knowledge distillation for class-incremental semantic segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/439bf902de1807088d8b731ca20b0777-Abstract-Conference.html) [[code]](https://github.com/cvlab-yonsei/DKD) ![](https://img.shields.io/badge/class%20incre.-yellow) 
-- MicroSeg: [Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/99b419554537c66bf27e5eb7a74c7de4-Paper-Conference.pdf) [[code]](https://github.com/zkzhang98/MicroSeg)
-- CCDA: [Continual coarse-to-fine domain adaptation in semantic segmentation] [IVC 2022] [[paper]](https://doi.org/10.1016/j.imavis.2022.104426) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- Continual Adaptation of Semantic Segmentation Using Complementary 2D-3D Data Representations [LRA 2022] [[apper]](https://ieeexplore.ieee.org/abstract/document/9874976) ![](https://img.shields.io/badge/domain%20incre.-blue)
-
-### 2021
-- SSUL: [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning] [NeurIPS 2021] [[paper]](https://proceedings.neurips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html) [[code]](https://github.com/clovaai/SSUL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- RECALL: [RECALL: Replay-based Continual Learning in Semantic Segmentation] [ICCV 2021] [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf) [[code]](https://github.com/LTTM/RECALL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- FSS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415) [[code]](https://github.com/fcdl94/FSS)  
-
-
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
 - Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition. [WACV2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -93,6 +64,36 @@
 
 ### 2019
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+## <div align='center'> Data-replay Approaches </div>
+### 2024
+- Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
+### 2023
+- Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- AMSS: [Continual Semantic Segmentation With Automatic Memory Sample Selection] [CVPR 2023] [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- RECALL+: [Adversarial Web-based Replay for Continual Learning in Semantic Segmentation] [ArXiv 2023] [[paper]](https://browse.arxiv.org/pdf/2309.10479) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- EndoCSS: [Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay] [CBM 2023] [[paper]](https://browse.arxiv.org/pdf/2308.14100) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Domain-Incremental Cardiac Image Segmentation With Style-Oriented Replay and Domain-Sensitive Feature Whitening [TMI 2023] [[paper]](https://ieeexplore.ieee.org/document/9908146) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- GarDA: [Generative appearance replay for continual unsupervised domain adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2301.01211) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+### 2022
+- ProCA: [Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation] [ECCV 2022] [[paper]](https://browse.arxiv.org/pdf/2207.10856.pdf) [[code]](https://github.com/Hongbin98/ProCA)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- SPPA: [Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment] [ECCV 2022] [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890341.pdf) [[code]](https://github.com/AsteRiRi/SPPA)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- ALIFE: [Alife: Adaptive logit regularizer and feature replay for incremental semantic segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d516fc09b53e9a7fade4fbad703e686-Abstract-Conference.html) [[code]](https://github.com/cvlab-yonsei/ALIFE)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- DKD: [Decomposed knowledge distillation for class-incremental semantic segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/439bf902de1807088d8b731ca20b0777-Abstract-Conference.html) [[code]](https://github.com/cvlab-yonsei/DKD) ![](https://img.shields.io/badge/class%20incre.-yellow) 
+- MicroSeg: [Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation] [NeurIPS 2022] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/99b419554537c66bf27e5eb7a74c7de4-Paper-Conference.pdf) [[code]](https://github.com/zkzhang98/MicroSeg)
+- CCDA: [Continual coarse-to-fine domain adaptation in semantic segmentation] [IVC 2022] [[paper]](https://doi.org/10.1016/j.imavis.2022.104426) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- Continual Adaptation of Semantic Segmentation Using Complementary 2D-3D Data Representations [LRA 2022] [[apper]](https://ieeexplore.ieee.org/abstract/document/9874976) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+### 2021
+- SSUL: [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning] [NeurIPS 2021] [[paper]](https://proceedings.neurips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html) [[code]](https://github.com/clovaai/SSUL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- RECALL: [RECALL: Replay-based Continual Learning in Semantic Segmentation] [ICCV 2021] [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf) [[code]](https://github.com/LTTM/RECALL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- FSS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415) [[code]](https://github.com/fcdl94/FSS)  
+
+
 
 ## <div align='center'> Few-shot CSS </div>
 - SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.10868)
