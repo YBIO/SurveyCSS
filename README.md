@@ -33,13 +33,16 @@
 ### 2021
 - SSUL: [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning] [NeurIPS 2021] [[paper]](https://proceedings.neurips.cc/paper/2021/hash/5a9542c773018268fc6271f7afeea969-Abstract.html) [[code]](https://github.com/clovaai/SSUL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - RECALL: [RECALL: Replay-based Continual Learning in Semantic Segmentation] [ICCV 2021] [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf) [[code]](https://github.com/LTTM/RECALL)  ![](https://img.shields.io/badge/class%20incre.-yellow)
-- FSS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415) [[code]](https://github.com/fcdl94/FSS)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+- FSS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415) [[code]](https://github.com/fcdl94/FSS)  
 
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
-- CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition. [WACV2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Towards Domain-Aware Knowledge Distillation for Continual Model Generalization. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- MDINet: Multi-Domain Incremental Network for Change Detection. [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10379022) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 ### 2023
 - FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2311.15965.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - L2MNet: Enhancing Continual Semantic Segmentation with Mask Matching [PRCV 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_11)  ![](https://img.shields.io/badge/class%20incre.-yellow)
