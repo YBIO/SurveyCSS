@@ -15,6 +15,7 @@
 - CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2023
+- CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2303.10147.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2311.15965.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - L2MNet: Enhancing Continual Semantic Segmentation with Mask Matching [PRCV 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_11)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - SDCL: [Subspace Distillation for Continual Learning] [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608023004057) [[code]](https://github.com/csiro-robotics/SDCL) ![](https://img.shields.io/badge/task%20incre.-gray) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -40,6 +41,8 @@
 - Efficient Multi-Grained Knowledge Reuse for Class Incremental Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2306.02027.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2022
+- Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation. [CVPRW 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Saporta_Multi-Head_Distillation_for_Continual_Unsupervised_Domain_Adaptation_in_Semantic_Segmentation_CVPRW_2022_paper.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- CONDA: Continual Unsupervised Domain Adaptation Learning in Visual Perception for Self-Driving Cars. [ArXiv 2022] [[paper]](https://arxiv.org/pdf/2212.00621.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - iFS-RCNN: An Incremental Few-shot Instance Segmenter [CVPR 2022] [[paper]](https://arxiv.org/pdf/2205.15562.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - WILSON: [Incremental Learning in Semantic Segmentation From Image Labels] [CVPR 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.html) [[code]](https://github.com/fcdl94/WILSON) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - RBC: [RBC: Rectifying the Biased Context in Continual Semantic Segmentation] [ECCV 2022] [[paper]](https://browse.arxiv.org/pdf/2203.08404.pdf) [[code]](https://github.com/dcdcvgroup/RBC) ![](https://img.shields.io/badge/class%20incre.-yellow)
