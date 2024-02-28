@@ -9,6 +9,7 @@
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
+- Boosting knowledge diversity, accuracy, and stability via tri-enhanced distillation for domain continual medical image segmentation. [Medical Image Analysis] [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841524000379)  ![](https://img.shields.io/badge/domain%20incre.-blue)
 - MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition. [WACV2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Towards Domain-Aware Knowledge Distillation for Continual Model Generalization. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
