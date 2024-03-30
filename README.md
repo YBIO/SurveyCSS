@@ -85,6 +85,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
+- TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29598) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
 ### 2023
 - Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation [NeurIPS 2023] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -122,6 +123,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 - PIFS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415)
 
 ## <div align='center'> Specific Applications </div>
+- Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples. [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28509)
 - Federated Incremental Semantic Segmentation. [CVPR 2023] [[paper]](https://arxiv.org/abs/2304.04620) [[code]](https://github.com/JiahuaDong/FISS)
 - Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions [CVPR 2023] [[paper]](https://arxiv.org/abs/2303.14115)
 - Continual segment: Towards a single, unified and accessible continual segmentation model of 143 whole-body organs in ct scans. [ICCV 2023] [[paper]](https://arxiv.org/abs/2302.00162)
