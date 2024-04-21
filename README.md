@@ -17,6 +17,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
+- Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation [Arxiv 2024] [[paper]](https://arxiv.org/pdf/2404.11981.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Layer-Specific Knowledge Distillation for Class Incremental Semantic Segmentation [TIP 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10462931) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments [NeurIPS 2024] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ce3cf998b7f59271e80ce03fb74a7115-Paper-Conference.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery [TMI 2024] [[paper]](https://arxiv.org/pdf/2402.05860.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -85,6 +86,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
+- ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/abs/2402.16674) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29598) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
 ### 2023
