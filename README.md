@@ -19,7 +19,6 @@ Continual learning, also known as incremental learning or life-long learning, st
 ### 2024
 - Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation [Arxiv 2024] [[paper]](https://arxiv.org/pdf/2404.11981.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Layer-Specific Knowledge Distillation for Class Incremental Semantic Segmentation [TIP 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10462931) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments [NeurIPS 2024] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ce3cf998b7f59271e80ce03fb74a7115-Paper-Conference.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery [TMI 2024] [[paper]](https://arxiv.org/pdf/2402.05860.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2402.16674.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - A Domain Adaptive Semantic Segmentation Method Using Contrastive Learning and Data Augmentation [Neural Processing Letters 2024] [[paper]]() ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -30,6 +29,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 
 ### 2023
+- Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments [NeurIPS 2023] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ce3cf998b7f59271e80ce03fb74a7115-Paper-Conference.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2303.10147.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2311.15965.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - L2MNet: Enhancing Continual Semantic Segmentation with Mask Matching [PRCV 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_11)  ![](https://img.shields.io/badge/class%20incre.-yellow)
