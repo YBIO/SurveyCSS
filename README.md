@@ -24,7 +24,6 @@ Continual learning, also known as incremental learning or life-long learning, st
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2402.16674.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - A Domain Adaptive Semantic Segmentation Method Using Contrastive Learning and Data Augmentation [Neural Processing Letters 2024] [[paper]]() ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Boosting knowledge diversity, accuracy, and stability via tri-enhanced distillation for domain continual medical image segmentation [Medical Image Analysis 2024] [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841524000379)  ![](https://img.shields.io/badge/domain%20incre.-blue)
-- MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition. [WACV2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Towards Domain-Aware Knowledge Distillation for Continual Model Generalization. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - MDINet: Multi-Domain Incremental Network for Change Detection. [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10379022) ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -86,6 +85,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
+- MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/abs/2402.16674) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29598) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Continual atlas-based segmentation of prostate MRI. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Ranem_Continual_Atlas-Based_Segmentation_of_Prostate_MRI_WACV_2024_paper.html) [[code]](https://github.com/MECLabTUDA/Atlas-Replay) ![](https://img.shields.io/badge/task%20incre.-gray)
