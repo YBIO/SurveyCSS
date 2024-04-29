@@ -27,7 +27,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 - Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition. [WACV2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Towards Domain-Aware Knowledge Distillation for Continual Model Generalization. [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - MDINet: Multi-Domain Incremental Network for Change Detection. [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10379022) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 
 ### 2023
 - CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2303.10147.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -54,7 +54,8 @@ Continual learning, also known as incremental learning or life-long learning, st
 - DILRS: [DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data] [Remote Sensing 2023] [[paper]](https://www.mdpi.com/2072-4292/15/10/2541) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation]  [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.19879) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Efficient Multi-Grained Knowledge Reuse for Class Incremental Segmentation. [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2306.02027.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
-
+- CISDQ: Continual Learning for Image Segmentation with Dynamic Query. [TCSVT 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10335718) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- 
 ### 2022
 - Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation. [CVPRW 2022] [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Saporta_Multi-Head_Distillation_for_Continual_Unsupervised_Domain_Adaptation_in_Semantic_Segmentation_CVPRW_2022_paper.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - CONDA: Continual Unsupervised Domain Adaptation Learning in Visual Perception for Self-Driving Cars. [ArXiv 2022] [[paper]](https://arxiv.org/pdf/2212.00621.pdf) ![](https://img.shields.io/badge/domain%20incre.-blue)
