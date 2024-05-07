@@ -17,6 +17,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
+- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue) ![](https://img.shields.io/badge/modality%20incre.-red)
 - Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation [Arxiv 2024] [[paper]](https://arxiv.org/pdf/2404.11981.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Layer-Specific Knowledge Distillation for Class Incremental Semantic Segmentation [TIP 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10462931) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery [TMI 2024] [[paper]](https://arxiv.org/pdf/2402.05860.pdf) ![](https://img.shields.io/badge/class%20incre.-yellow)
