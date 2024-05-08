@@ -121,13 +121,14 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 
 ## <div align='center'> Few-shot CSS </div>
-- SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.10868)
+- SRAA: [Advancing Incremental Few-shot Semantic Segmentation via Semantic-guided Relation Alignment and Adaptation] [MMM 2024] [[paper]](https://arxiv.org/abs/2305.10868)
 - FSCILSS: [Few-Shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation] [ISPDS 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10235731)
 - GAPS: [GAPS: Few-Shot Incremental Semantic Segmentation via Guided Copy-Paste Synthesis] [CVPRW 2023] [[paper]](https://motion.cs.illinois.edu/papers/CVPRWorkshop2023-Qiu-FewShotSegmentation.pdf)
 - EHNet: [Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation] [ACM MM 2022] [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548218)
 - PIFS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415)
 
 ## <div align='center'> Specific Applications </div>
+- Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.pdf)
 - Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples. [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28509)
 - Federated Incremental Semantic Segmentation. [CVPR 2023] [[paper]](https://arxiv.org/abs/2304.04620) [[code]](https://github.com/JiahuaDong/FISS)
 - Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions [CVPR 2023] [[paper]](https://arxiv.org/abs/2303.14115)
