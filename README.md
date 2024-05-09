@@ -17,7 +17,6 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
-- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue) ![](https://img.shields.io/badge/modality%20incre.-red)
 - CoMasTRe: Continual Segmentation with Disentangled Objectness Learning and Class Recognition [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.03477) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.20126) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - SimCS:  Simulation for Domain Incremental Online Continual Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28952)  ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -90,6 +89,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
+- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)  
 - MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/abs/2402.16674) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29598) ![](https://img.shields.io/badge/class%20incre.-yellow)
