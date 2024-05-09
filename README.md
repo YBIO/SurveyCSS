@@ -5,10 +5,11 @@
   ![](https://img.shields.io/badge/task%20incre.-gray) 
   ![](https://img.shields.io/badge/class%20incre.-yellow) 
   ![](https://img.shields.io/badge/domain%20incre.-blue) 
-  ![](https://img.shields.io/badge/modality%20incre.-red)
+  ![](https://img.shields.io/badge/modality%20incre.-purple)
 
   
 ![task_legend](illustration/task_legend.png)
+![roadmap](illustration/roadmap.png)
 
 ## Our Paper
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
@@ -52,7 +53,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 - SATS: [SATS: Self-attention transfer for continual semantic segmentation] [PR 2023] [[paper]](https://browse.arxiv.org/pdf/2203.07667.pdf) [[code]](https://github.com/QIU023/SATS_Continual_Semantic_Seg)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Incrementer: [Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class][CVPR 2023][[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.html)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - S3R: [S3R: Shape and Semantics-Based Selective Regularization for Explainable Continual Segmentation Across Multiple Sites] [TMI 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10078916) ![](https://img.shields.io/badge/domain%20incre.-blue)
-- ContinualPMF:[Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2308.04702) ![](https://img.shields.io/badge/modality%20incre.-red)
+- ContinualPMF:[Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network] [ArXiv 2023] [[paper]](https://arxiv.org/abs/2308.04702) ![](https://img.shields.io/badge/modality%20incre.-purple)
 - CoMFormer: [CoMFormer: Continual Learning in Semantic and Panoptic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2211.13999)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - DILRS: [DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data] [Remote Sensing 2023] [[paper]](https://www.mdpi.com/2072-4292/15/10/2541) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - RaSP: [RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation]  [ArXiv 2023] [[paper]](https://arxiv.org/abs/2305.19879) ![](https://img.shields.io/badge/class%20incre.-yellow)
