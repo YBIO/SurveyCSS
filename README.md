@@ -9,7 +9,6 @@
 
   
 ![task_legend](illustration/task_legend.png)
-![roadmap](illustration/roadmap.png)
 
 ## Our Paper
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
