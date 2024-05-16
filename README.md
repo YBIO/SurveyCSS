@@ -9,6 +9,7 @@
 
   
 ![task_legend](illustration/task_legend.png)
+![method_category](illustration/category.png)
 
 ## Our Paper
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
@@ -90,7 +91,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
-- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)  
 - BACS: Background Aware Continual Semantic Segmentation. [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2404.13148) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/abs/2402.16674) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -152,6 +153,9 @@ Here are some qualitative visualizations of recent CSS methods.
 
 ### Interpretability Analysis
 Feature-based visualization is an explicit way to visualize the semantic clusters during CL steps. For example, TSNE and CAM-series are potential manners to assist the result analysis.
+
+### Qualitative Analysis
+![qualitative_analysis](illustration/analysis.png)
 
 ### Cite this repo
 If this project is helpful, please consider citing it as
