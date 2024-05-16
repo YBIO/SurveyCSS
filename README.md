@@ -170,6 +170,7 @@ If this project is helpful, please consider citing it as
 
 ## TODO
 &#9745;  Method characteristics summary
+
 &#9745; Performance comparison
 * [ ]  Roadmap update
 
