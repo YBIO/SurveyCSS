@@ -12,6 +12,7 @@
 
 ## Our Paper
 [A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://browse.arxiv.org/abs/2310.14277)
+
 ## Abstract
 Continual learning, also known as incremental learning or life-long learning, stands at the forefront of deep learning and AI systems. It breaks through the obstacle of one-way training on close sets and enables continuous adaptive learning on open-set conditions. In the recent decade, continual learning has been explored and applied in multiple fields especially in computer vision covering classification, detection and segmentation tasks. Continual semantic segmentation (CSS), of which the dense prediction peculiarity makes it a challenging, intricate and burgeoning task. In this paper, we present a review of CSS, committing to building a comprehensive survey on problem formulations, primary challenges, universal datasets, neoteric theories and multifarious applications. Concretely, we begin by elucidating the problem definitions and primary challenges. Based on an in-depth investigation of relevant approaches, we sort out and categorize current CSS models into two main branches including **data-replay** and **data-free** sets. In each branch, the corresponding approaches are similarity-based clustered and thoroughly analyzed, following qualitative comparison and quantitative reproductions on relevant datasets. Besides, we also introduce four CSS specialities with diverse application scenarios and development tendencies. Furthermore, we develop a benchmark for CSS encompassing representative references, evaluation results and reproductions. We hope this survey can serve as a reference-worthy and stimulating contribution to the advancement of the life-long learning field, while also providing valuable perspectives for related fields. 
 
@@ -89,7 +90,8 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
-- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)  
+- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- BACS: Background Aware Continual Semantic Segmentation. [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2404.13148) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - MiSSNet: Memory-inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10418153) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer [ArXiv 2024] [[paper]](https://arxiv.org/abs/2402.16674) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29598) ![](https://img.shields.io/badge/class%20incre.-yellow)
