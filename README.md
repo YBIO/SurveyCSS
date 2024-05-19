@@ -135,6 +135,8 @@ Continual learning, also known as incremental learning or life-long learning, st
 - PIFS: [Prototype-based Incremental Few-Shot Semantic Segmentation] [BMVC 2021] [[paper]](https://arxiv.org/abs/2012.01415)
 
 ## <div align='center'> Specific Applications </div>
+- Towards Realistic Incremental Scenario in Class Incremental Semantic Segmentation [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2405.09858)
+- UnCLe SAM: Unleashing SAM’s Potential for Continual Prostate MRI Segmentation [MIDL 2024] [[paper]](https://openreview.net/forum?id=jRtUQ2VnNi)
 - Cross-Domain Few-Shot Incremental Learning for Point-Cloud Recognition [WACV 2024] [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Tan_Cross-Domain_Few-Shot_Incremental_Learning_for_Point-Cloud_Recognition_WACV_2024_paper.pdf)
 - Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples. [AAAI 2024] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28509)
 - Federated Incremental Semantic Segmentation. [CVPR 2023] [[paper]](https://arxiv.org/abs/2304.04620) [[code]](https://github.com/JiahuaDong/FISS)
