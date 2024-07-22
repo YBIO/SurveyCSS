@@ -24,6 +24,8 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
+- Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+
 - Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation [CVPR 2024] [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoMasTRe: Continual Segmentation with Disentangled Objectness Learning and Class Recognition [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.03477) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.20126) ![](https://img.shields.io/badge/class%20incre.-yellow)
