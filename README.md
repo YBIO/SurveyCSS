@@ -11,8 +11,10 @@
 ![task_legend](illustration/task_legend.png)
 ![method_category](illustration/category.png)
 
-## Our Paper 
-### 24-07-23 :blush: Our latest verison of paper has been released!
+## NEWS
+### 24-07-23 :blush: Our latest verison of paper has been released in ArXiv!
+
+## Our Paper (New Version Updated at 24-07-23)
 A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
 [[paper]](https://browse.arxiv.org/abs/2310.14277) | [[blog]](https://ybio.github.io/2024/06/01/blog_SurveyCSS/)
