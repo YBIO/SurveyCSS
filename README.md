@@ -186,10 +186,10 @@ If this project is helpful, please consider citing it as
 ## Related Paper
 - Brain-inspired Continual Semantic Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/10520832/) | [[blog]](https://ybio.github.io/2024/06/01/blog_LAG/)
 - Inherit With Distillation and Evolve With Contrast [[paper]](https://arxiv.org/pdf/2309.15413)
+- Continual Panoptic Perception [[paper]](https://arxiv.org/abs/2407.14242)
 
 ## TODO
 &#9745;  Method characteristics summary
-
 &#9745; Performance comparison
-* [ ]  Roadmap update
+&#9745; Roadmap update
 
