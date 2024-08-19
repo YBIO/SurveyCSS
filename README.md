@@ -12,6 +12,8 @@
 ![method_category](illustration/category.png)
 
 ## NEWS
+### 24-08-18 :smiley: Our paper has been accepted in IEEE TPAMI!
+
 ### 24-07-23 :blush: Our latest verison of paper has been released in ArXiv!
 
 ## Our Paper (New Version Updated at 24-07-23)
@@ -27,8 +29,15 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
-- Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
-
+- Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) [[code]](https://github.com/YBIO/CPP) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/abs/2407.09838) [[code]](https://andyzaq.github.io/barmsite/) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Mitigating Background Shift in Class-Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.11859) [[code]](https://github.com/RoadoneP/ECCV2024_MBS) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.14142) [[code]](https://github.com/zhengyuan-xie/ECCV24_NeST) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Prompt-Guided Semantic-aware Distillation for
+Weakly Supervised Incremental Semantic
+Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10553257) [[code]](https://github.com/Magic-Nova77/PGSD) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation. [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2407.09047) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Class learning for semantic segmentation from new knowledge. []
 - Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation [CVPR 2024] [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoMasTRe: Continual Segmentation with Disentangled Objectness Learning and Class Recognition [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.03477) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.20126) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -103,7 +112,10 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
 - Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)   ![](https://img.shields.io/badge/modality%20incre.-purple) 
+- Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.13363)![](https://img.shields.io/badge/class%20incre.-yellow)
 - Learning with Style: Continual Semantic Segmentation Across Tasks and Domains. [TPAMI 2024] [[paper]]  ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting. [MICCAI24] [[paper]](https://arxiv.org/pdf/2406.19796) [[code]](https://github.com/jingyzhang/CGR) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Incremental Model Enhancement via Memory-based Contrastive Learning. [IJCV 2024] [[paper]](https://link.springer.com/article/10.1007/s11263-024-02138-z) ![](https://img.shields.io/badge/task%20incre.-gray) 
 - Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2406.19796) ![](https://img.shields.io/badge/task%20incre.-gray) 
 - A Dual Enrichment Synergistic Strategy to Handle Data Heterogeneity for Domain Incremental Cardiac Segmentation [TMI 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10433413) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - BACS: Background Aware Continual Semantic Segmentation. [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2404.13148) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -190,6 +202,8 @@ If this project is helpful, please consider citing it as
 
 ## TODO
 &#9745;  Method characteristics summary
+
 &#9745; Performance comparison
+
 &#9745; Roadmap update
 
