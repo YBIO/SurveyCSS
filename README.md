@@ -2,6 +2,15 @@
 
 # <div align='center'> SurveyCSS (Continuously updating) </div>
 
+## NEWS
+### 24-08-18 :smiley: Our paper has been accepted in IEEE TPAMI!
+
+### 24-07-23 :blush: Our latest verison of paper has been released in ArXiv!
+
+## Our Paper (Updated at 24-07-23)
+A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
+[[paper]](https://browse.arxiv.org/abs/2310.14277) | [[blog]](https://ybio.github.io/2024/06/01/blog_SurveyCSS/)
+
   ![](https://img.shields.io/badge/task%20incre.-gray) 
   ![](https://img.shields.io/badge/class%20incre.-yellow) 
   ![](https://img.shields.io/badge/domain%20incre.-blue) 
@@ -11,15 +20,10 @@
 ![task_legend](illustration/task_legend.png)
 ![method_category](illustration/category.png)
 
-## NEWS
-### 24-08-18 :smiley: Our paper has been accepted in IEEE TPAMI!
 
-### 24-07-23 :blush: Our latest verison of paper has been released in ArXiv!
 
-## Our Paper (New Version Updated at 24-07-23)
-A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application
 
-[[paper]](https://browse.arxiv.org/abs/2310.14277) | [[blog]](https://ybio.github.io/2024/06/01/blog_SurveyCSS/)
+
 
 
 
