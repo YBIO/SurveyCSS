@@ -111,7 +111,7 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2024
-- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)   ![](https://img.shields.io/badge/modality%20incre.-purple) 
+- Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) [[code]](https://github.com/YBIO/LAG) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)   ![](https://img.shields.io/badge/modality%20incre.-purple) 
 - Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.13363)![](https://img.shields.io/badge/class%20incre.-yellow)
 - Learning with Style: Continual Semantic Segmentation Across Tasks and Domains. [TPAMI 2024] [[paper]]  ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting. [MICCAI24] [[paper]](https://arxiv.org/pdf/2406.19796) [[code]](https://github.com/jingyzhang/CGR) ![](https://img.shields.io/badge/class%20incre.-yellow)
