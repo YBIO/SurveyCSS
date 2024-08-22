@@ -186,12 +186,15 @@ Feature-based visualization is an explicit way to visualize the semantic cluster
 ### Cite this repo
 If this project is helpful, please consider citing it as
 ```
-@article{yuan2023survey,
-  title={A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application},
+@ARTICLE{SurveyCSS,
   author={Yuan, Bo and Zhao, Danpei},
-  journal={arXiv preprint arXiv:2310.14277},
-  year={2023}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/TPAMI.2024.3446949}}
 ```
 ## Related Paper
 - Brain-inspired Continual Semantic Segmentation [[paper]](https://ieeexplore.ieee.org/abstract/document/10520832/) | [[blog]](https://ybio.github.io/2024/06/01/blog_LAG/)
