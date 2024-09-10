@@ -28,6 +28,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
 - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) [[code]](https://github.com/YBIO/CPP) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- kNN-CLIP: Retrieval Enables Training-Free Segmentation on Continually Expanding Large Vocabularies [TMLR 2024] [[paper]](https://arxiv.org/pdf/2404.09447)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/abs/2407.09838) [[code]](https://andyzaq.github.io/barmsite/) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Mitigating Background Shift in Class-Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.11859) [[code]](https://github.com/RoadoneP/ECCV2024_MBS) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.14142) [[code]](https://github.com/zhengyuan-xie/ECCV24_NeST) ![](https://img.shields.io/badge/class%20incre.-yellow)
@@ -124,6 +125,7 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 ### 2023
 - Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation [NeurIPS 2023] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Replaying Styles for Continual Semantic Segmentation Across Domains [ACPR 2023] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_23) ![](https://img.shields.io/badge/domain%20incre.-blue)
+- Continual Semantic Segmentation via Scalable Contrastive Clustering and Background Diversity [ICDM 2023] [[paper]](https://ieeexplore.ieee.org/abstract/document/10415751) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - FairCL: [Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments] [NeurIPS 2023] [[paper]](https://arxiv.org/abs/2305.15700) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - DiffusePast: [DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation] [ArXiv 2023] [[paper]](https://arxiv.org/pdf/2308.01127) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - FMWILSS: [Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation] [CVPR 2023] [[paper]](https://arxiv.org/abs/2302.14250) ![](https://img.shields.io/badge/class%20incre.-yellow)
