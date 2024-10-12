@@ -32,6 +32,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 - Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/abs/2407.09838) [[code]](https://andyzaq.github.io/barmsite/) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Mitigating Background Shift in Class-Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.11859) [[code]](https://github.com/RoadoneP/ECCV2024_MBS) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.14142) [[code]](https://github.com/zhengyuan-xie/ECCV24_NeST) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- L2A: Learning Affinity from Attention for Weakly Supervised Continual Semantic Segmentation [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/document/10683729) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Prompt-Guided Semantic-aware Distillation for
 Weakly Supervised Incremental Semantic
 Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10553257) [[code]](https://github.com/Magic-Nova77/PGSD) ![](https://img.shields.io/badge/class%20incre.-yellow)
