@@ -36,7 +36,6 @@ Continual learning, also known as incremental learning or life-long learning, st
 Weakly Supervised Incremental Semantic
 Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10553257) [[code]](https://github.com/Magic-Nova77/PGSD) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation. [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2407.09047) ![](https://img.shields.io/badge/class%20incre.-yellow)
-- Class learning for semantic segmentation from new knowledge. []
 - Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation [CVPR 2024] [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - CoMasTRe: Continual Segmentation with Disentangled Objectness Learning and Class Recognition [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.03477) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning [CVPR 2024] [[paper]](https://arxiv.org/pdf/2403.20126) ![](https://img.shields.io/badge/class%20incre.-yellow)
