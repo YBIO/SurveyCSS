@@ -28,6 +28,8 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-free Approaches </div>
 ### 2024
 - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) [[code]](https://github.com/YBIO/CPP) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- CIT: Rethinking Class-incremental Semantic Segmentation with a Class Independent Transformation [ArXiv 2024] [[paper]](https://arxiv.org/pdf/2411.02715) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Domain-Incremental Learning for Remote Sensing Semantic Segmentation With Multifeature Constraints in Graph Space [TGRS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10723740) ![](https://img.shields.io/badge/domain%20incre.-blue)
 - kNN-CLIP: Retrieval Enables Training-Free Segmentation on Continually Expanding Large Vocabularies [TMLR 2024] [[paper]](https://arxiv.org/pdf/2404.09447)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation. [ECCV 2024] [[paper]](https://arxiv.org/abs/2407.09838) [[code]](https://andyzaq.github.io/barmsite/) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Mitigating Background Shift in Class-Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.11859) [[code]](https://github.com/RoadoneP/ECCV2024_MBS) ![](https://img.shields.io/badge/class%20incre.-yellow)
