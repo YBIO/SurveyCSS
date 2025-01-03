@@ -28,7 +28,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-free Approaches </div>
 ### 2025
 - Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation [WACV 2025] [[paper]](https://arxiv.org/abs/2411.17610)  ![](https://img.shields.io/badge/modality%20incre.-purple)
-
+- SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [ArXiv 2024] [[paper]](https://arxiv.org/abs/2412.10834) [[code]](https://github.com/qwrawq/SegACIL) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 
 ### 2024
@@ -121,6 +121,9 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ## <div align='center'> Data-replay Approaches </div>
+### 2025
+- Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic Segmentation [AAAI 2025] [[paper]](https://hhudelta.github.io/publication/aaai2025/AAAI2025.pdf)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 ### 2024
 - Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling. [TPAMI 2024] [[paper]](https://ieeexplore.ieee.org/document/10520832) [[code]](https://github.com/YBIO/LAG) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)   ![](https://img.shields.io/badge/modality%20incre.-purple) 
 - Task Consistent Prototype Learning for Incremental Few-Shot Semantic Segmentation [ICPR 2024] [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-78347-0_10) ![](https://img.shields.io/badge/class%20incre.-yellow)
