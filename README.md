@@ -28,11 +28,14 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-free Approaches </div>
 ### 2025
 - Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation [WACV 2025] [[paper]](https://arxiv.org/abs/2411.17610)  ![](https://img.shields.io/badge/modality%20incre.-purple)
-- SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [ArXiv 2024] [[paper]](https://arxiv.org/abs/2412.10834) [[code]](https://github.com/qwrawq/SegACIL) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- Background adaptation with residual modeling for exemplar-free class-incremental semantic segmentation
 
 
 ### 2024
+- Strike a Balance in Continual Panoptic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.16354) [[code]](https://github.com/jinpeng0528/BalConpas) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) [[code]](https://github.com/YBIO/CPP) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+- SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [ArXiv 2024] [[paper]](https://arxiv.org/abs/2412.10834) [[code]](https://github.com/qwrawq/SegACIL) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- SAM-IF: Leveraging SAM for Incremental Few-Shot Instance Segmentation [Arxiv 2024] [[paper]](https://arxiv.org/pdf/2412.11034) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.14142) [[code]](https://github.com/zhengyuan-xie/ECCV24_NeST) ![](https://img.shields.io/badge/class%20incre.-yellow) 
 - Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation [MICCAI 2024] [[paper]](https://arxiv.org/pdf/2410.04689) ![](https://img.shields.io/badge/domain%20incre.-blue) 
 - Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation [TNNLS 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10715722)  ![](https://img.shields.io/badge/domain%20incre.-blue) 
