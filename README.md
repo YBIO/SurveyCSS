@@ -3,7 +3,7 @@
 # <div align='center'> SurveyCSS (Continuously updating) </div>
 
 ## NEWS
-### 24-08-18 :smiley: Our paper has been accepted in IEEE TPAMI!
+### 24-08-18 :smiley: Our paper has been accepted in IEEE TPAMI
 
 ### 24-07-23 :blush: Our latest verison of paper has been released in ArXiv!
 
