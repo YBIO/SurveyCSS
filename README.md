@@ -28,6 +28,10 @@ Continual learning, also known as incremental learning or life-long learning, st
 ## <div align='center'> Data-free Approaches </div>
 ### 2025
 
+- SVSRD: Spatial Visual and Statistical Relation Distillation for Class-Incremental Semantic Segmentation [TMM 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10891485) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2502.17429) [[code]](https://github.com/vgthengane/CLIMB3D) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2502.04870) [[code]](https://github.com/YanFangCS/IPSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - Domain-Incremental Semantic Segmentation for Traffic Scenes. [TITS 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10843143) ![](https://img.shields.io/badge/domain%20incre.-blue)
@@ -137,6 +141,8 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2025
+- Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation [TPAMI 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10904177) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic Segmentation [AAAI 2025] [[paper]](https://hhudelta.github.io/publication/aaai2025/AAAI2025.pdf)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2024
