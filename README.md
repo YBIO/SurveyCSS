@@ -27,12 +27,25 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2025
+
+- IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2502.04870) [[code]](https://github.com/YanFangCS/IPSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Domain-Incremental Semantic Segmentation for Traffic Scenes. [TITS 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10843143) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+- Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2501.05246) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+
+- Incremental few-shot instance segmentation without fine-tuning on novel classes [CVIU 2025] [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314225000463) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation [WACV 2025] [[paper]](https://arxiv.org/abs/2411.17610)  ![](https://img.shields.io/badge/modality%20incre.-purple)
 
 
 ### 2024
 - Strike a Balance in Continual Panoptic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.16354) [[code]](https://github.com/jinpeng0528/BalConpas) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [ACMMM 2024] [[paper]](https://arxiv.org/abs/2407.14242) [[code]](https://github.com/YBIO/CPP) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/modality%20incre.-purple)
+
+- A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation [NeruIPS 2024] [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2f75a57e9c71e8369da0150ea769d5a2-Abstract-Conference.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - SegACIL: Solving the Stability-Plasticity Dilemma in Class-Incremental Semantic Segmentation [ArXiv 2024] [[paper]](https://arxiv.org/abs/2412.10834) [[code]](https://github.com/qwrawq/SegACIL) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - SAM-IF: Leveraging SAM for Incremental Few-Shot Instance Segmentation [Arxiv 2024] [[paper]](https://arxiv.org/pdf/2412.11034) ![](https://img.shields.io/badge/class%20incre.-yellow)
 - Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [ECCV 2024] [[paper]](https://arxiv.org/pdf/2407.14142) [[code]](https://github.com/zhengyuan-xie/ECCV24_NeST) ![](https://img.shields.io/badge/class%20incre.-yellow) 
