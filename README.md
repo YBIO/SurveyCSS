@@ -27,12 +27,35 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center'> Data-free Approaches </div>
 ### 2025
+- VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/D_VISTA-CLIP_Visual_Incremental_Self-Tuned_Adaptation_for_Efficient_Continual_Panoptic_Segmentation_CVPRW_2025_paper.pdf)   ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-Based Semantic Segmentation [WACV 2025] [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10944136)  ![](https://img.shields.io/badge/modality%20incre.-purple)
+
+- GLA: Global-Local Awareness for 3D Point Cloud Class-Incremental Semantic Segmentation [IEEE Signal Processing Letters 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/11097887) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- MCIFSS:Mask-Guided Modality Collaboration with Global-Local Discriminative Synergy for Incremental Few-Shot Semantic Segmentation [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417425038655) [[code]](https://github.com/gyzzzzzzzz/MCNet) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Multi-Layer Knowledge Distillation for Continual Semantic Segmentation [ICASSP 2025] [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890804) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Relaxing Distillation Constraints for Improved New Class Learning in Continual Semantic Segmentation [ICASSP 2025] [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889174) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- CFSSeg: Closed-Form Solution for Class-Incremental Semantic Segmentation of 2D Images and 3D Point Clouds [ACMMM 2025] [[paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Learning Yourself: Class-Incremental Semantic Segmentation with Language-Inspired Bootstrapped Disentanglement [ICCV 2025] [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_Learning_Yourself_Class-Incremental_Semantic_Segmentation_with_Language-Inspired_Bootstrapped_Disentanglement_ICCV_2025_paper.pdf)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Enhancing Continual Semantic Segmentation via Uncertainty and Class Balance Re-Weighting [IEEE TIP 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/11030217) [[code]](https://github.com/JACK-Chen-2019/UCB) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Revisiting Continual Semantic Segmentation with Pre-trained Vision Models [arXiv 2025] [[paper]](https://arxiv.org/abs/2508.04267) [[code]](https://github.com/BladeDancer957/RevisitingCSS) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Decoupling Continual Semantic Segmentation [arXiv 2025] [[paper]](https://arxiv.org/pdf/2508.05065) [[code]](https://github.com/euyis1019/Decoupling-Continual-Semantic-Segmentation) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- FoSSIL: A Unified Framework for Continual Semantic Segmentation in 2D and 3D Domains [2025] [[paper]](https://openreview.net/forum?id=cZi9UlIu4K) ![](https://img.shields.io/badge/domain%20incre.-blue) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - SVSRD: Spatial Visual and Statistical Relation Distillation for Class-Incremental Semantic Segmentation [TMM 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10891485) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2502.17429) [[code]](https://github.com/vgthengane/CLIMB3D) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
-- IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation [ArXiv 2025] [[paper]](https://arxiv.org/pdf/2502.04870) [[code]](https://github.com/YanFangCS/IPSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
+- IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation [arXiv 2025] [[paper]](https://arxiv.org/pdf/2502.04870) [[code]](https://github.com/YanFangCS/IPSeg) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - Domain-Incremental Semantic Segmentation for Traffic Scenes. [TITS 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10843143) ![](https://img.shields.io/badge/domain%20incre.-blue)
 
@@ -141,6 +164,25 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 
 ## <div align='center'> Data-replay Approaches </div>
 ### 2025
+
+- FOCUS: Feature Replay with Optimized Channel-Consistent Dropout for U-Net Skip-Connections [MICCAI 2025] [[paper]](https://papers.miccai.org/miccai-2025/paper/0460_paper.pdf) [[code]](https://github.com/imigraz/FOCUS/) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+- Incremental Few-Shot Semantic Segmentation via Multi-Level Switchable Visual Prompts [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wan_Incremental_Few-Shot_Semantic_Segmentation_via_Multi-Level_Switchable_Visual_Prompts_ICCV_2025_paper.pdf) [[code]](https://github.com/WanMotion/MSVP)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Diffusion-driven distillation and contrastive learning for class-incremental semantic segmentation of laparoscopic images [Int J CARS 2025] [[paper]](https://link.springer.com/article/10.1007/s11548-025-03405-1)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Continual Gaussian Mixture Distribution Modeling for Class Incremental Semantic Segmentation [NeurIPS 2025] [[paper]](https://openreview.net/forum?id=dtYKDOBkc7) [[code]](https://github.com/zhu-gl-ux/CoGaMiD)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Yin_Beyond_Background_Shift_Rethinking_Instance_Replay_in_Continual_Semantic_Segmentation_CVPR_2025_paper.html) [[code]](https://github.com/YikeYin97/EIR) ![](https://img.shields.io/badge/class%20incre.-yellow)
+ 
+- AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation [AAAI 2025] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34379) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Enhancing continual semantic segmentation with visual explanations and model adaptations [Neurocomputing 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231225023094) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Low-cost and sparsity for continual semantic segmentation [EAAI 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0952197625023589) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Sdreplay: Diffusion Model for Continual Semantic Segmentation in Traffic Scenario [Multimedia Systems 2025] [[paper]](https://link.springer.com/article/10.1007/s00530-025-02049-0) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation [TPAMI 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10904177) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic Segmentation [AAAI 2025] [[paper]](https://hhudelta.github.io/publication/aaai2025/AAAI2025.pdf)  ![](https://img.shields.io/badge/class%20incre.-yellow)
