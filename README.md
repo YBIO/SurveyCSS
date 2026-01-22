@@ -26,8 +26,26 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 
 ## <div align='center'> Data-free Approaches </div>
+### 2026
+- DAAM: semi-supervised continual semantic segmentation based on distribution alignment and affinity matching [Expert Systems with Applications 2026] [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426000436) [[code]](https://github.com/creater-huizhou/DAAM) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+
 ### 2025
+- RegCL: Continual Adaptation of Segment Anything Model via Model Merging [ArXiv 2025] [[paper]](https://arxiv.org/abs/2507.12297) ![](https://img.shields.io/badge/domain%20incre.-blue) 
+
+- Enhancing task incremental continual learning: integrating prompt-based feature selection with pre-trained vision-language model [Knowledge-Based Systems 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705125007506) ![](https://img.shields.io/badge/task%20incre.-gray) 
+
+- Adaptive prototype replay for class incremental semantic segmentation [AAAI 2025] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33188) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Flat Local Minima for Continual Learning on Semantic Segmentation [MMM 2025] [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_29) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Rethinking Query-based Transformer for Continual Image Segmentation [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Rethinking_Query-based_Transformer_for_Continual_Image_Segmentation_CVPR_2025_paper.html) [[code]](https://github.com/SooLab/SimCIS) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Towards Continual Universal Segmentation [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Towards_Continual_Universal_Segmentation_CVPR_2025_paper.html)  ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - VISTA-CLIP: Visual Incremental Self-Tuned Adaptation for Efficient Continual Panoptic Segmentation [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/D_VISTA-CLIP_Visual_Incremental_Self-Tuned_Adaptation_for_Efficient_Continual_Panoptic_Segmentation_CVPRW_2025_paper.pdf)   ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Lightweight Class Incremental Semantic Segmentation Without Catastrophic Forgetting [TIP 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/11082484)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-Based Semantic Segmentation [WACV 2025] [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10944136)  ![](https://img.shields.io/badge/modality%20incre.-purple)
 
@@ -165,7 +183,13 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 ## <div align='center'> Data-replay Approaches </div>
 ### 2025
 
+- LAGD: Local Topological-Alignment and Global Semantic-Deconstruction for Incremental 3D Semantic Segmentation [AAAI 2025] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34427) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
+- Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation [Pattern Recognition 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320325002730) ![](https://img.shields.io/badge/class%20incre.-yellow)
+
 - FOCUS: Feature Replay with Optimized Channel-Consistent Dropout for U-Net Skip-Connections [MICCAI 2025] [[paper]](https://papers.miccai.org/miccai-2025/paper/0460_paper.pdf) [[code]](https://github.com/imigraz/FOCUS/) ![](https://img.shields.io/badge/domain%20incre.-blue)
+
+- Federated-continual dynamic segmentation of histopathology guided by barlow continuity [WACV 2025] [[paper]](https://ieeexplore.ieee.org/abstract/document/10943793) ![](https://img.shields.io/badge/domain%20incre.-blue)
 
 - Incremental Few-Shot Semantic Segmentation via Multi-Level Switchable Visual Prompts [CVPR 2025] [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wan_Incremental_Few-Shot_Semantic_Segmentation_via_Multi-Level_Switchable_Visual_Prompts_ICCV_2025_paper.pdf) [[code]](https://github.com/WanMotion/MSVP)  ![](https://img.shields.io/badge/class%20incre.-yellow)
 
