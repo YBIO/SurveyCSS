@@ -23,9 +23,11 @@ Continual learning, also known as incremental learning or life-long learning, st
 ![task_legend](illustration/task_legend.png)
 ![method_category](illustration/category.png)
 
+### Quick Link
+[Data-free Methods](#data-free-methods) | 
+[Data-replay Methods](#data-replay-methods)
 
-
-## <div align='center'> Data-free Approaches </div>
+## <div align='center' id='data-free-methods'>Data-free Methods</div>
 ### 2026
 - DAAM: semi-supervised continual semantic segmentation based on distribution alignment and affinity matching [Expert Systems with Applications 2026] [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426000436) [[code]](https://github.com/creater-huizhou/DAAM) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
@@ -180,7 +182,7 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 ### 2019
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
-## <div align='center'> Data-replay Approaches </div>
+## <div align='center' id='data-replay-methods'> Data-replay Methods </div>
 ### 2025
 
 - LAGD: Local Topological-Alignment and Global Semantic-Deconstruction for Incremental 3D Semantic Segmentation [AAAI 2025] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34427) ![](https://img.shields.io/badge/class%20incre.-yellow)
