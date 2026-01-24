@@ -29,7 +29,7 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 ## <div align='center' id='data-free-methods'>Data-free Methods</div>
 ### 2026
-- Evolving Without Ending: Unifying Multimodal Incremental Learning for Continual Panoptic Perception [ArXiv 2026] [[paper]](https://www.arxiv.org/abs/2601.15643) (https://img.shields.io/badge/class%20incre.-yellow)  ![](https://img.shields.io/badge/modality%20incre.-purple)
+- Evolving Without Ending: Unifying Multimodal Incremental Learning for Continual Panoptic Perception [ArXiv 2026] [[paper]](https://www.arxiv.org/abs/2601.15643) ![](https://img.shields.io/badge/class%20incre.-yellow)  ![](https://img.shields.io/badge/modality%20incre.-purple)
 
 - DAAM: semi-supervised continual semantic segmentation based on distribution alignment and affinity matching [Expert Systems with Applications 2026] [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426000436) [[code]](https://github.com/creater-huizhou/DAAM) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
