@@ -33,8 +33,11 @@ Continual learning, also known as incremental learning or life-long learning, st
 
 - DAAM: semi-supervised continual semantic segmentation based on distribution alignment and affinity matching [Expert Systems with Applications 2026] [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426000436) [[code]](https://github.com/creater-huizhou/DAAM) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
+- Toward Generative Understanding: Incremental Few-Shot Semantic Segmentation With Diffusion Models [TIP 2026] [[paper]](https://ieeexplore.ieee.org/abstract/document/11353366) [[code]](https://ifss-diff.github.io/) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ### 2025
+- DIPathMamba: A domain-incremental weakly supervised state space model for pathology image segmentation [Medical Image Analysis 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841525001100) 
+
 - RegCL: Continual Adaptation of Segment Anything Model via Model Merging [ArXiv 2025] [[paper]](https://arxiv.org/abs/2507.12297) ![](https://img.shields.io/badge/domain%20incre.-blue) 
 
 - Enhancing task incremental continual learning: integrating prompt-based feature selection with pre-trained vision-language model [Knowledge-Based Systems 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705125007506) ![](https://img.shields.io/badge/task%20incre.-gray) 
@@ -185,8 +188,10 @@ Segmentation. [TCSVT 2024] [[paper]](https://ieeexplore.ieee.org/abstract/docume
 - ILT: [Incremental Learning Techniques for Semantic Segmentation] [ICCVW 2019] [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/TASK-CV/Michieli_Incremental_Learning_Techniques_for_Semantic_Segmentation_ICCVW_2019_paper.html) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 ## <div align='center' id='data-replay-methods'> Data-replay Methods </div>
-### 2025
+### 2026
+- Class-Domain Incremental Segmentation for Remote Sensing Images [TGRS 2026] [[paper]](https://ieeexplore.ieee.org/abstract/document/11314607) ![](https://img.shields.io/badge/class%20incre.-yellow) ![](https://img.shields.io/badge/domain%20incre.-blue)
 
+### 2025
 - LAGD: Local Topological-Alignment and Global Semantic-Deconstruction for Incremental 3D Semantic Segmentation [AAAI 2025] [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34427) ![](https://img.shields.io/badge/class%20incre.-yellow)
 
 - Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation [Pattern Recognition 2025] [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320325002730) ![](https://img.shields.io/badge/class%20incre.-yellow)
